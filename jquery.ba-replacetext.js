@@ -1,10 +1,10 @@
 /*!
  * jQuery replaceText - v1.1 - 11/21/2009
- * http://benalman.com/projects/jquery-replacetext-plugin/
+ * https://github.com/telisik8/Tempixel/blob/master/selectnav.js
  * 
  * Copyright (c) 2009 "Cowboy" Ben Alman
  * Dual licensed under the MIT and GPL licenses.
- * http://benalman.com/about/license/
+ * https://github.com/telisik8/Tempixel/jquery.ba-replacetext.js
  */
 
 // Script: jQuery replaceText: String replace for your jQueries!
