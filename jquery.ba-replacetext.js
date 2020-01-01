@@ -2,7 +2,7 @@
  * jQuery replaceText - v1.1 - 11/21/2009
  * https://github.com/telisik8/Tempixel/blob/master/selectnav.js
  * 
- * Copyright (c) 2009 "Cowboy" Ben Alman
+ * Copyright (c) 2020 Telisik8
  * Dual licensed under the MIT and GPL licenses.
  * https://github.com/telisik8/Tempixel/jquery.ba-replacetext.js
  */
